@@ -1,0 +1,7 @@
+D:\Github\modul3_1302213117\modul3_1302213117\modul3_1302213117\obj\Debug\net6.0-windows\modul3_1302213117.csproj.AssemblyReference.cache
+D:\Github\modul3_1302213117\modul3_1302213117\modul3_1302213117\obj\Debug\net6.0-windows\modul3_1302213117.Form1.resources
+D:\Github\modul3_1302213117\modul3_1302213117\modul3_1302213117\obj\Debug\net6.0-windows\modul3_1302213117.csproj.GenerateResource.cache
+D:\Github\modul3_1302213117\modul3_1302213117\modul3_1302213117\obj\Debug\net6.0-windows\modul3_1302213117.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\modul3_1302213117\modul3_1302213117\modul3_1302213117\obj\Debug\net6.0-windows\modul3_1302213117.AssemblyInfoInputs.cache
+D:\Github\modul3_1302213117\modul3_1302213117\modul3_1302213117\obj\Debug\net6.0-windows\modul3_1302213117.AssemblyInfo.cs
+D:\Github\modul3_1302213117\modul3_1302213117\modul3_1302213117\obj\Debug\net6.0-windows\modul3_1302213117.csproj.CoreCompileInputs.cache
