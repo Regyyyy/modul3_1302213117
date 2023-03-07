@@ -5,3 +5,13 @@ D:\Github\modul3_1302213117\modul3_1302213117\modul3_1302213117\obj\Debug\net6.0
 D:\Github\modul3_1302213117\modul3_1302213117\modul3_1302213117\obj\Debug\net6.0-windows\modul3_1302213117.AssemblyInfoInputs.cache
 D:\Github\modul3_1302213117\modul3_1302213117\modul3_1302213117\obj\Debug\net6.0-windows\modul3_1302213117.AssemblyInfo.cs
 D:\Github\modul3_1302213117\modul3_1302213117\modul3_1302213117\obj\Debug\net6.0-windows\modul3_1302213117.csproj.CoreCompileInputs.cache
+D:\Github\modul3_1302213117\modul3_1302213117\modul3_1302213117\bin\Debug\net6.0-windows\modul3_1302213117.exe
+D:\Github\modul3_1302213117\modul3_1302213117\modul3_1302213117\bin\Debug\net6.0-windows\modul3_1302213117.deps.json
+D:\Github\modul3_1302213117\modul3_1302213117\modul3_1302213117\bin\Debug\net6.0-windows\modul3_1302213117.runtimeconfig.json
+D:\Github\modul3_1302213117\modul3_1302213117\modul3_1302213117\bin\Debug\net6.0-windows\modul3_1302213117.dll
+D:\Github\modul3_1302213117\modul3_1302213117\modul3_1302213117\bin\Debug\net6.0-windows\modul3_1302213117.pdb
+D:\Github\modul3_1302213117\modul3_1302213117\modul3_1302213117\obj\Debug\net6.0-windows\modul3_1302213117.dll
+D:\Github\modul3_1302213117\modul3_1302213117\modul3_1302213117\obj\Debug\net6.0-windows\refint\modul3_1302213117.dll
+D:\Github\modul3_1302213117\modul3_1302213117\modul3_1302213117\obj\Debug\net6.0-windows\modul3_1302213117.pdb
+D:\Github\modul3_1302213117\modul3_1302213117\modul3_1302213117\obj\Debug\net6.0-windows\modul3_1302213117.genruntimeconfig.cache
+D:\Github\modul3_1302213117\modul3_1302213117\modul3_1302213117\obj\Debug\net6.0-windows\ref\modul3_1302213117.dll
